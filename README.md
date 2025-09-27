@@ -6,7 +6,7 @@ I’m an engineer who does software, trains neural networks, and spends time try
 
 ## 🧰 What I Do
 These days mostly Ads machine learning @[Roku](https://github.com/rokudev).  
-Previously ML @[ShareChat](https://github.com/ShareChat), Platform @[Gojek](https://github.com/gojek), Full Stack Engineer @ Typito.  
+Previously ML @[ShareChat](https://github.com/ShareChat), Platform @[Gojek](https://github.com/gojek), Full Stack Engineer @ [Typito](https://github.com/typito).  
 
 Experience spans across the spectrum: from dabbling into insides of React to writing canvas rendering engines in the frontend, tweaking Redis/BT/Scylla, engineering real-time inference systems, and creating training loops for large recommender systems.
 
