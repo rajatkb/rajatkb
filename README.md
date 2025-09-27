@@ -5,22 +5,38 @@ I’m an engineer who does software, trains neural networks, and spends time try
 ---
 
 ## 🧰 What I Do
-These days mostly Ads machine learning @ Roku .
-Previously ML @ Sharechat , Platform @ Go-jek , Full Stack Engineer @ Typito
-Experience span across spectrum of dabbling into insides of react to writing canvas rendering engines in frontend and then having tweaked redis/BT/Scylla , engineered realtime inference systems and have created training loops for large Recommender systems.
+These days mostly Ads machine learning @ Roku.  
+Previously ML @ Sharechat, Platform @ Go-jek, Full Stack Engineer @ Typito.  
 
-## 🚀 Beyond work
-- I am a Masters student at Georgia Institute of Technology !
-- Pursue some research ideas on my own in diffusion (results soon on github!)
-- Trying to keep up with the world 😐
+Experience spans across the spectrum: from dabbling into insides of React to writing canvas rendering engines in the frontend, tweaking Redis/BT/Scylla, engineering real-time inference systems, and creating training loops for large recommender systems.
+
+---
+
+## 🚀 Beyond Work
+- Masters student at **Georgia Institute of Technology** 🎓  
+- Pursuing some research ideas on **diffusion models** (results soon on GitHub!)  
+- Trying to keep up with the world 😐  
+
 ---
 
 ## 📫 Want to Work / Collaborate?
 
-- **Connect**: Let’s chat on [LinkedIn](https://linkedin.com/in/rajatkb) 
-
-- I’m open to collaborations on bleeding-edge systems, research, tooling, or anything that provokes curiosity  
+- Open to collaborations on bleeding-edge systems, research, tooling, or anything that provokes curiosity  
 - Ping me on LinkedIn or drop a PR / issue here  
-- I’m always down to bounce crazy ideas off another brain  
+- Always down to bounce crazy ideas off another brain  
 
----  
+---
+
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/rajatkb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/rajatkb" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/csmadeeasy" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
