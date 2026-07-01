@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Rajat Kanti Bhattacharjee (aka **rajatkb**) 
+# 👋 Hello
 
 I’m an engineer who does software, trains neural networks, and spends time trying to learn things I will probably never turn into a profession.
 
